@@ -20,3 +20,4 @@ Design de formulário de cadastro com diversas etapas, realizado com React.js e 
 
 ## Preview
 
+![image](https://user-images.githubusercontent.com/74063350/147477832-f157d0da-e374-4e77-857e-2df4db92f5d7.png)
