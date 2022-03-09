@@ -1,4 +1,4 @@
-# Formulario-Multi-Etapas
+# Formulario Multi Etapas
 
 Design de formulário de cadastro com diversas etapas, realizado com React.js e TailwindCSS.
 
